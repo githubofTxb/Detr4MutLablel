@@ -1,3 +1,6 @@
+** 这是一个将detr修改为单框多标签识别的仓库
+* 具体修改参考**更改记录.md**
+
 **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
 
